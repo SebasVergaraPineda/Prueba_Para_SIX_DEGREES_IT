@@ -1,6 +1,6 @@
 # Prueba_Para_SIX_DEGREES_IT
 
-Este es el ejercicio de Prueba Técnica fullstack para el proceso con la empresa SIX DEGREES IT SOLUTIONS construida con **.NET 8 (Web API)** en el backend, **Angular 16** en el frontend, y **SQL Server**
+Hola señores de SIX_DEGREES_IT. Este es el ejercicio de Prueba Técnica fullstack para el proceso con la empresa SIX DEGREES IT SOLUTIONS construida con **.NET 8 (Web API)** en el backend, **Angular 16** en el frontend, y **SQL Server**
 como base de datos.
 
 ---
