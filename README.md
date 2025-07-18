@@ -8,7 +8,7 @@ como base de datos.
 ## ⚙️ Requisitos previos
 
 ### Backend
-- Visual Studio 2019 o superior
+- Visual Studio 2022 o superior
 - .NET 8 SDK
 - SQL Server (Express o Developer)
 - SSMS (SQL Server Management Studio)
