@@ -1,0 +1,6 @@
+@PruebaSD.API_HostAddress = http://localhost:5212
+
+GET {{PruebaSD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
